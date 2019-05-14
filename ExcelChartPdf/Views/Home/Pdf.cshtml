@@ -1,0 +1,32 @@
+﻿@using System.Globalization
+@using ExcelChartPdf.Models
+@{
+    Layout = null;
+}
+
+<itext pagesize="A4" orientation="portrait" creationdate="@DateTime.Now.ToString(CultureInfo.InvariantCulture)" producer="Vikram Singh Saini">
+    
+    <paragraph style="font-family:Times;font-size:15;">
+        <chunk red="244" green="144" blue="32">Excel</chunk>
+        <chunk red="30" green="152" blue="229">.Chart.</chunk>
+        <chunk red="244" green="144" blue="32">Pdf</chunk>
+    </paragraph>
+ 
+<table width="100%" cellpadding="1.0" cellspacing="1.0"  widths="5;5">
+    <row>
+	    <cell borderwidth="0.5" left="false" right="false" top="false" bottom="true">@DateTime.Now.ToShortDateString()</cell>
+	    <cell borderwidth="0.5" left="false" right="false" top="false" bottom="true" horizontalalign="right">@DateTime.Now.ToShortTimeString()</cell>
+    </row>
+</table>
+ 
+    <newline />
+
+    <image url="@Url.Content(ImageModel.ImagePath)" plainwidth="200.0" plainheight="202.0"/>
+ 
+<newline />
+ 
+ <anchor fontstyle="normal, italic" red="67" green="67" blue="67" reference="http://www.vss-tech.com"> 
+Vikram Singh Saini
+</anchor>
+    
+</itext>

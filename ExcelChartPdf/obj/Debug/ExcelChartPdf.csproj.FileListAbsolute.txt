@@ -1,0 +1,8 @@
+D:\MVC\ExcelChartPdf\ExcelChartPdf\bin\ExcelChartPdf.dll
+D:\MVC\ExcelChartPdf\ExcelChartPdf\bin\ExcelChartPdf.pdb
+D:\MVC\ExcelChartPdf\ExcelChartPdf\obj\Debug\ResolveAssemblyReference.cache
+D:\MVC\ExcelChartPdf\ExcelChartPdf\obj\Debug\ExcelChartPdf.dll
+D:\MVC\ExcelChartPdf\ExcelChartPdf\obj\Debug\ExcelChartPdf.pdb
+D:\MVC\ExcelChartPdf\ExcelChartPdf\bin\Aspose.Cells.dll
+D:\MVC\ExcelChartPdf\ExcelChartPdf\bin\itextsharp.dll
+D:\MVC\ExcelChartPdf\ExcelChartPdf\bin\RazorPDF.dll

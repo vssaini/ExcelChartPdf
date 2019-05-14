@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{23F8A6BC-D013-40F1-A7AA-DE4360694908}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExcelChartPdf/Views/Home/Pdf.cshtml">
+    <Files>
+      <File FileName="ExcelChartPdf/Views/Home/Pdf.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExcelChartPdf" expanded="True">
+            <Node name="ExcelChartPdf" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Pdf.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExcelChartPdf PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
